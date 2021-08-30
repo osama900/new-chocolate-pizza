@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+body {
+  margin-left: 16%;
+}
+#logo {
+  font-family: "Pacifico", cursive;
+  display: inline-block;
+}
+
+#logoimage {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#div1 {
+  display: inline-block;
+}
+
+#links {
+  margin-left: 400px;
+  display: inline-block;
+}
+#hr1 {
+  height: 10px;
+  border-width: 1px;
+  background-color: rgb(199, 193, 193);
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: larger;
+}
+#title1 {
+  display: inline-block;
+}
+
+#img2 {
+  display: inline-block;
+  margin-left: 1190px;
+}
+
+#img1 {
+  margin-left: 600px;
+}
+
+#list {
+  display: block;
+  margin-top: 25px;
+  margin-left: 0px;
+
+  z-index: 1;
+}
+
+#left {
+  position: absolute;
+  float: left;
+
+  top: 1000px;
+  width: 2255px;
+  margin-left: 30px;
+}
+#right {
+  position: absolute;
+  float: right;
+  width: 255px;
+  top: 1000px;
+  right: 450px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+div ul li {
+  z-index: 2;
+  font-family: "Ubuntu", sans-serif;
+  padding: 2px;
+}
+
+.bottomBorder {
+  background-color: gray;
+  color: gray;
+  display: block;
+  margin-left: 0px;
+  width: 900px;
+  height: 5px;
+  margin-top: 15px;
+}
+
+#last {
+  margin-left: 10px;
+}
+
+.bottom img {
+  position: absolute;
+  float: left;
+}
+
+footer img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#space {
+  display: block;
+  margin-left: 0px;
+
+  width: 1200px;
+  height: 5px;
+  margin-top: 15px;
+}
+
+#divimagech {
+  margin-left: 0px;
+}
+
+#share {
+  position: absolute;
+  float: right;
+  color: white;
+  width: 150px;
+  background-color: rgb(179, 45, 0);
+  height: 35px;
+  width: 115px;
+  text-align: center;
+  font-size: 13px;
+  align-content: center;
+  margin-left: 700px;
+  font-family: "Roboto Condensed", sans-serif;
+  margin-top: 20px;
+}
+
+#bottomSection {
+  width: 500px;
+  margin-left: 100px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.bottom {
+  display: block;
+  margin-left: 10px;
+  width: 50%;
+}
+
+#thestyle {
+  margin-left: 250px;
+}
+
+#i {
+  margin-left: 100px;
+}
+
+h3 {
+  font-weight: bold;
+}
